@@ -1,0 +1,9 @@
+[submodule "NSimpleClipper"]
+	path = NSimpleClipper
+	url = git@github.com:noahdominic/NSimpleClipper
+[submodule "NSimpleCrusher"]
+	path = NSimpleCrusher
+	url = git@github.com:noahdominic/NSimpleCrusher
+[submodule "NSimpleSaturator"]
+	path = NSimpleSaturator
+	url = git@github.com:noahdominic/NSimpleSaturator
